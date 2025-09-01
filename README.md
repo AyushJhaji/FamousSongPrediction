@@ -1,4 +1,3 @@
-# FamousSongPrediction
 # 🎵 Song Popularity Predictor
 
 A machine learning web app that predicts song streaming numbers based on audio features.
